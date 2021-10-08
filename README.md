@@ -1,2 +1,2 @@
 # OpenCV-practice
-My OpenCV practice using python
+Leran-and-practice-OpenCV-using-Python
